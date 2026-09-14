@@ -1,0 +1,20 @@
+{
+  "name": "verificacion-identidad-uy",
+  "version": "1.0.0",
+  "description": "Sistema automatizado de verificación de identidad (KYC) para Billetera Digital Uruguay",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "kyc",
+    "identity-verification",
+    "billetera-digital",
+    "uruguay"
+  ],
+  "author": "cesarcha004-cloud",
+  "license": "MIT",
+  "dependencies": {}
+}
