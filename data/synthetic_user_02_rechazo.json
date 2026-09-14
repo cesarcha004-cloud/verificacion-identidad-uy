@@ -1,0 +1,13 @@
+{
+  "documento_numero": "99999999",
+  "datos_esperados": {
+    "nombres": "Carlos",
+    "apellidos": "López Martínez",
+    "fecha_nacimiento": "1985-03-20",
+    "fecha_vencimiento": "2025-03-20"
+  },
+  "similitud_biometrica": 92,
+  "prueba_vida": true,
+  "es_pep": false,
+  "en_sanciones": false
+}
