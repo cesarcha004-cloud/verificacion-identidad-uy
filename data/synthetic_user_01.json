@@ -1,0 +1,13 @@
+{
+  "documento_numero": "12345678",
+  "datos_esperados": {
+    "nombres": "Juan",
+    "apellidos": "Pérez García",
+    "fecha_nacimiento": "1990-05-15",
+    "fecha_vencimiento": "2030-05-15"
+  },
+  "similitud_biometrica": 92,
+  "prueba_vida": true,
+  "es_pep": false,
+  "en_sanciones": false
+}
