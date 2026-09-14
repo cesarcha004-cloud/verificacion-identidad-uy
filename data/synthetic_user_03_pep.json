@@ -1,0 +1,13 @@
+{
+  "documento_numero": "12345678",
+  "datos_esperados": {
+    "nombres": "María",
+    "apellidos": "González Rodríguez",
+    "fecha_nacimiento": "1988-07-10",
+    "fecha_vencimiento": "2028-07-10"
+  },
+  "similitud_biometrica": 92,
+  "prueba_vida": true,
+  "es_pep": true,
+  "en_sanciones": false
+}
